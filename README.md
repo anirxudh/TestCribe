@@ -1,6 +1,9 @@
 
 # 📝 TextFinder OCR 📝
 
+
+![Banner](https://github.com/anirxudh/Python/blob/main/ocr.png)
+
 A web-based prototype that demonstrates the ability to perform Optical Character Recognition (OCR) on an uploaded image (in picture format) containing text in both Hindi and English. The web application also implements a basic keyword search functionality based on the extracted text. The prototype is accessible via a live URL.
 
 The website is hosted using Hugging Face Spaces. Try it out [here](https://huggingface.co/spaces/anirxudh/TextFinder_OCR).
