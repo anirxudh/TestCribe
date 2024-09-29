@@ -68,6 +68,15 @@ The application has been deployed on **Hugging Face Spaces**. To deploy your own
 
 For more details, visit the [Hugging Face Space Documentation](https://huggingface.co/docs/spaces).
 
+## Output
+
+![Sample Interface 1](https://github.com/anirxudh/TextFinder-OCR/blob/main/Output/Screenshot%202024-09-29%20194658.png)
+![Sample Interface 2](https://github.com/anirxudh/TextFinder-OCR/blob/main/Output/Screenshot%202024-09-29%20194802.png)
+![Sample Interface 3](https://github.com/anirxudh/TextFinder-OCR/blob/main/Output/Screenshot%202024-09-29%20195304.png)
+![Sample Interface 4](https://github.com/anirxudh/TextFinder-OCR/blob/main/Output/Screenshot%202024-09-29%20195404.png)
+
+
+
 ## References:
 
 1. [GOT-OCR2.0 - GitHub](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
